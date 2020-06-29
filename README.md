@@ -1,4 +1,4 @@
-# Git_Branching
+# Git_Branching_Project
 Git Branching and Merging
 
 Two projects on Git branching are -
